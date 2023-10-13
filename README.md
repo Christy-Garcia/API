@@ -1,8 +1,7 @@
 # My API 
 
 # API Name
-MyNameAPI
-MyNameAPI is a simple API for managing and retrieving personal names. It provides endpoints for adding, updating, retrieving, and deleting names in a database. This API is designed to demonstrate the basic functionality of a RESTful API.
+My API is a simple API for managing and retrieving personal names. It provides endpoints for adding, updating, retrieving, and deleting names in a database. This API is designed to demonstrate the basic functionality of a RESTful API.
 
 ## API
 This API allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a database table named names. It includes endpoints for inserting, extracting, updating, and deleting records.
